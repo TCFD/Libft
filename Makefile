@@ -6,12 +6,12 @@
 #    By: rciaze <rciaze@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/11/15 12:06:39 by rciaze            #+#    #+#              #
-#    Updated: 2023/02/01 12:13:04 by rciaze           ###   ########.fr        #
+#    Updated: 2023/06/14 17:13:51 by rciaze           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 
-NAME = pipex
+NAME = libft.a
 CFLAGS = -Wall -Wextra -Werror -c -g3
 COMP = cc $(FLAGS)
 all : $(NAME)
